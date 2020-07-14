@@ -21,3 +21,4 @@ pkg
 /.idea
 .byebug_history
 gemfiles/.bundle/
+.ruby-gemset
